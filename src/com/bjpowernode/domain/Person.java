@@ -7,7 +7,7 @@ public class Person {
     private String age;
     private String arddess;
     int[] a=new int[10];///
-    int a[]=new int[20];
+    int a1[]=new int[20];
 
 
 
